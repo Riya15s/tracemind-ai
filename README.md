@@ -1,37 +1,43 @@
 # TraceMind AI
 
-> AI-powered DevOps Incident Analysis Platform
+AI-powered DevOps Incident Analysis Platform built with the MERN Stack and OpenAI.
 
-##  Overview
+## 🚀 Overview
 
 TraceMind AI helps developers analyze application incidents using AI.
 
-Users can:
+### Features
 
-- Upload logs
-- Describe incidents
-- Get AI-generated root cause analysis
-- Receive debugging suggestions
-- Track incidents in a dashboard
+- AI-powered incident analysis
+- Root cause detection
+- Log management
+- Incident dashboard
+- Authentication
+- File uploads
+- Analytics
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
+
 - React
 - Vite
-- Axios
 - React Router
+- Axios
 
 ### Backend
+
 - Node.js
 - Express.js
 
 ### Database
+
 - MongoDB
 
 ### AI
-- OpenAI API (later)
+
+- OpenAI API
 
 ## Project Status
 
-  currently Under Development
+🚧 Under Development
