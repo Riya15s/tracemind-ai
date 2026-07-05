@@ -229,7 +229,8 @@ GitHub:
 https://github.com/Riya15s
 
 LinkedIn:
-(Add your LinkedIn profile)
+www.linkedin.com/in/
+riyajagriti15
 
 ---
 
